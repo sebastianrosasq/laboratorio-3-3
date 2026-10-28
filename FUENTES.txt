@@ -1,0 +1,5 @@
+Práctica de Android Developers: Aspectos básicos de Compose
+https://developer.android.com/codelabs/basic-android-kotlin-compose-composables-practice-problems
+
+Las imágenes del artículo y de tareas provienen del repositorio de Google Developer Training
+https://github.com/google-developer-training/basic-android-kotlin-compose-training-practice-problems
